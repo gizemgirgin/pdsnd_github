@@ -201,7 +201,7 @@ def trip_duration_stats(df):
     print("\nIt tooks  %s seconds." % (time.time() - start_time))
     print('-'*40)
 
-
+#Gender and birth dates are only available for Chicago and NYC.
 def user_stats(df):
     """Displays statistics on bikeshare users."""
 
