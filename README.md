@@ -1,11 +1,11 @@
 ### Date created
-Include the date you created this project and README file.
+17.12.2020
 
 ### Project Title
-Replace the Project Title
+programming for data science
 
 ### Description
-Describe what your project is about and what it does
+Project Submission: The created program permits the client to investigate a US bikeshare framework data set and recover insights data from the information base. The client is capable channel the data by city, month and work day, to envision measurements data identified with a particular subset of information. The client is likewise ready to decided to see crude information and to sort this information by segments, in order.
 
 ### Files used
 Include the files used
