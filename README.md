@@ -9,7 +9,7 @@ Udacity programming for data science course info
 
 ### Description
 
-Project 1: This venture comprised in the investigation of a gave information base film rentals in which the understudy needed to run SQL inquiries and assemble perceptions to grandstand the yield of the understudy's questions. 
+Project 1:This venture comprised in the investigation of a gave information base film rentals in which the understudy needed to run SQL inquiries and assemble perceptions to grandstand the yield of the understudy's questions. 
 
 For the introduction part, the understudy needed to make four slides, and each ought to have (a) an issue of interest, (b) a supporting SQL inquiry expected to respond to the inquiry, (c) a supporting perception made utilizing the last information of the SQL inquiries that answer the inquiries of interest, and (d) a little outline on each slide.
 
